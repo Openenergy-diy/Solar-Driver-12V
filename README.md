@@ -10,14 +10,20 @@
 </a>
 &nbsp;
 &nbsp;
+&nbsp; 
+&nbsp;
 <a href="https://github.com/KannappanChettiar">
   <img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github">
 </a>
 &nbsp;
 &nbsp;
+&nbsp; 
+&nbsp;
 <a href="kc@switchingbattery.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
+&nbsp; 
+&nbsp;
 &nbsp; 
 &nbsp;
 <a href="https://www.kannappanchettiar.com/">
