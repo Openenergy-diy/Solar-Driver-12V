@@ -1,111 +1,76 @@
 # Contributors Guide
 
-Welcome to the contributor space for this repository. We appreciate builders, engineers, students, and researchers who want to improve open direct-energy systems responsibly.
-
-Please follow the guidelines below before contributing.
-
----
-
-## 1. Respect the Project Scope
-
-All contributions must align with the repository’s defined scope, including the supported voltage range, direct-flow architecture, and stated license boundaries.
+Thank you for contributing to this open educational repository.
+All contributions must support learning, experimentation, and responsible community development.
 
 ---
 
-## 2. Preserve Core Principles
+## 1. Keep It Educational
 
-Contributions should support:
-
-* Direct energy flow
-* Simplicity
-* Efficiency
-* Practical real-world usability
-* Minimal unnecessary control stages
+All submissions must focus on learning value, prototyping, research, or skill development. Contributions intended for commercial resale are not permitted.
 
 ---
 
-## 3. Documentation Improvements
+## 2. Improve Open Designs
 
-You are encouraged to improve:
+You are encouraged to enhance:
 
-* README clarity
-* Setup guides
-* Schematics explanations
-* Build instructions
-* Example use cases
-* Safety notes
-
----
-
-## 4. Hardware & Circuit Contributions
-
-You may submit:
-
-* PCB refinements
-* Cleaner schematics
-* Thermal improvements
-* Connector upgrades
-* Reliability enhancements
-* Low-loss routing ideas
-
-All designs must remain within approved repository limits.
+* Schematics
+* PCB layouts
+* Wiring methods
+* Safety improvements
+* Efficiency ideas
+* Build simplicity
 
 ---
 
-## 5. Testing & Validation
+## 3. Support Multiple Variants
 
-Useful contributions include verified testing data such as:
-
-* Voltage behavior
-* Load performance
-* Efficiency comparisons
-* Temperature observations
-* Outdoor solar operation results
-
-Please include clear methods and results.
+Designs and ideas should remain adaptable for different operating ranges and practical implementations where possible.
 
 ---
 
-## 6. Keep Submissions Clean
+## 4. Strengthen Documentation
 
-Before submitting:
+Helpful contributions include:
 
-* Use clear filenames
-* Organize folders properly
-* Add comments to diagrams/code
-* Remove duplicate files
-* Provide short descriptions
-
----
-
-## 7. Respect Intellectual Property
-
-Do not upload third-party copyrighted content, confidential files, copied designs, or materials outside your ownership rights.
-
-All repository IP and licensing terms must be respected. 
+* Better README content
+* Assembly guides
+* Testing procedures
+* Troubleshooting notes
+* Diagrams and visuals
+* Beginner-friendly explanations
 
 ---
 
-## 8. Be Professional & Collaborative
+## 5. Share Verified Testing
 
-Use respectful communication. Focus on engineering value, facts, and constructive feedback.
+If you test a build, include useful results such as:
 
----
-
-## 9. How to Contribute
-
-Recommended workflow:
-
-1. Fork repository
-2. Create feature branch
-3. Make changes
-4. Submit pull request
-5. Explain improvements clearly
+* Input/output behavior
+* Load testing
+* Efficiency observations
+* Thermal notes
+* Reliability findings
 
 ---
 
-## 10. Build the Future
+## 6. Respect Intellectual Property
 
-Every meaningful contribution helps create simpler, more open, and more efficient energy systems.
+Do not upload copied third-party content, proprietary files, paid resources, or commercial materials without rights to share.
 
-Thank you for contributing.
+---
+
+## 7. Stay Non-Commercial
+
+Contributions must not promote resale products, commercial branding, paid services, or mass-production activity based on repository materials.
+
+---
+
+## 8. Collaborate Professionally
+
+Be respectful, constructive, and solution-oriented. Every quality contribution helps expand open hardware learning for everyone.
+
+---
+
+**Suggested Workflow:** Fork → Improve → Document Changes → Submit Pull Request
