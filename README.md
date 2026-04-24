@@ -3,6 +3,25 @@
 <p align="center">
   <img src="Logo/OpenEnergy Logo.png" width="750">
 </p>
+<p align="left">
+
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kannappanchettiar)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+(&nbsp;)
+<a href="https://github.com/KannappanChettiar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github">
+</a>
+(&nbsp;)
+<a href="kc@switchingbattery.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+(&nbsp;)
+<a href="https://www.kannappanchettiar.com/">
+  <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome">
+</a>
+
+</p>
 
 <h1 align="center"><b>☀️ OpenEnergy's Solar Dongle (Open Educational Source)</b></h1>
 
@@ -246,41 +265,8 @@ Inventor of:
 * Solar Dongle Concepts
 * Conditional Source Control Systems
 * Flow-based energy architectures
-## **👤 Who Is Behind This**
 
-### **OpenEnergy.DIY**
 
-A trade name of **Kannappan Karuppan Chettiar**
-
-Inventor of:
-
-* Solar Dongle Concepts
-* Conditional Source Control Systems
-* Flow-based energy architectures
-
----
-
-## **📬 Reach Me**
-
-<p align="left">
-
-<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kannappanchettiar)">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/KannappanChettiar">
-  <img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github">
-</a>
-
-<a href="kc@switchingbattery.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.kannappanchettiar.com/">
-  <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome">
-</a>
-
-</p>
 
 ---
 
