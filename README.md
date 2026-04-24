@@ -1,13 +1,12 @@
-<h1 align="center"><b> Solar-Driver-12V </b>  </b></h1>
 
 <p align="center">
   <img src="Logo/OpenEnergy Logo.png" width="750">
 </p>
 
-<h3 align="center"><b>Welcome to OpenEnergy   </b></h3>
-OpenEnergy is a simple idea:   Energy should be easy to build, easy to use, and accessible to everyone.   No complexity.  No unnecessary control.  No waste. 
+<h1 align="center"><b>Welcome to OpenEnergy   </b></h1>
+Energy - easy to build, easy to use, and accessible to everyone.   No complexity.  No unnecessary control.  No waste. 
 
-<h1 align="center"><b>⚡ OpenEnergy Solar Driver (12V Open Standard)</b></h1>
+<h2 align="center"><b>⚡ OpenEnergy Solar Driver (12V Open Standard)</b></h2>
 
 <h3 align="center"><b>Direct Energy. No Storage. No Delay.</b></h3>
 
