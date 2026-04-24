@@ -1,9 +1,9 @@
 
+<h1 align="center"><b>Welcome to OpenEnergy   </b></h1>
 <p align="center">
   <img src="Logo/OpenEnergy Logo.png" width="750">
 </p>
 
-<h1 align="center"><b>Welcome to OpenEnergy   </b></h1>
 <h3 align="center">Energy - easy to build, easy to use, and accessible to everyone.   No complexity.  No unnecessary control.  No waste. </b></h3>
 
 <h2 align="center"><b>⚡ OpenEnergy Solar Driver (12V Open Standard)</b>b></h2>
