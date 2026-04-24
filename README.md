@@ -4,189 +4,194 @@
   <img src="Logo/OpenEnergy Logo.png" width="750">
 </p>
 
-<h3 align="center">⚡Energy - easy to build, easy to use, and accessible to everyone.   No complexity.  No unnecessary control.  No waste. </b></h3>
+<h1 align="center"><b>☀️ OpenEnergy's Solar Dongle (Open Educational Source)</b></h1>
 
----
-<h1 align="center"><b>OpenEnergy Solar Driver (12V Open Standard)</b></h1>
-<h3 align="center"><b>Direct Energy. No Storage. No Delay.</b></h3>
-
----
-
-## *🚀 A New Class of Energy Has Arrived*
-
-What if solar power didn’t need:
-
-* Batteries
-* MPPT
-* Converters
-* Control loops
-
-What if energy could flow directly from source to load — only when it is valid?
+<h3 align="center"><b>Direct Learning. Open Innovation. No Commercial Barriers.</b></h3>
 
 ---
 
-## *⚡ Introducing the Solar Driver*
+## **🚀 A New Learning Platform Has Arrived**
 
-The *Solar Driver* is a direct energy flow system.
+What if solar hardware education could be:
 
-It enables solar (and other DC sources) to power loads in real time using:
+* Practical
+* Modular
+* Easy to prototype
+* Open for improvement
+* Accessible to individuals everywhere
 
-* *Condition-based energy flow* — not control loops
-* No PWM
-* No MPPT
-* No staged energy transfer
-
-*Just real-time energy, as it is available.*
+What if learning could move directly from concept to real hardware experimentation?
 
 ---
 
-## *🧠 The Principle Behind It*
+## **☀️ Introducing the Solar Dongle**
 
-The Solar Driver is built on:
+The **Solar Dongle** is an open educational platform for exploring direct solar and DC-powered systems.
 
-### *Single-Action Principle (SAP)*
+It enables individuals to study and test practical energy systems in real time using:
 
-Energy is:
+* Simple hardware concepts
+* Direct source-to-load experimentation
+* Modular learning architecture
+* Open community improvements
 
-* Detected
-* Validated
-* Delivered
+**Just practical learning, as energy is available.**
 
-*In one action.*
+---
+
+## **🧠 The Principle Behind It**
+
+Solar Dongle is built on:
+
+### **Single-Action Simplicity**
+
+Energy systems should be:
+
+* Easy to understand
+* Easy to test
+* Easy to improve
+
+**In one practical learning path.**
 
 No:
 
-* Measure → Compute → Act cycles
-* Software delays
-* High-frequency switching
+* Unnecessary technical barriers
+* Overcomplicated entry points
+* Closed development ecosystems
 
 ---
 
-## *🔌 How It Works*
+## **🔌 How It Works**
 
 At the center is a:
 
-### *Common Energy Node*
+### **Common Learning Platform**
 
-* Sources connect through conditional gating
-* Energy flows only when conditions are valid
-* Load receives direct, real-time power
+* Users can build and test their own versions
+* Solar and DC sources can be explored through modular designs
+* Loads can be powered in experimental setups
+* Designs can be refined collaboratively
 
-### *Multiple Sources?*
+### **Multiple Variants?**
 
-They simply join the flow.
-
----
-
-## *🌱 Why This Matters*
-
-### Today’s energy systems:
-
-* Convert unnecessarily
-* Store prematurely
-* Respond too slowly
-
-### OpenEnergy Solar Driver:
-
-* ✔ Uses energy instantly
-* ✔ Eliminates unnecessary stages
-* ✔ Supports multiple renewable sources
-* ✔ Enables true real-time flow
+They simply evolve through community learning.
 
 ---
 
-## *🔓 What Is Open*
+## **🌱 Why This Matters**
+
+### Today’s learning systems often:
+
+* Overcomplicate simple concepts
+* Hide practical hardware behind theory
+* Restrict experimentation
+* Increase cost barriers
+
+### OpenEnergy Solar Dongle:
+
+* ✔ Encourages hands-on learning
+* ✔ Supports open experimentation
+* ✔ Enables multiple design approaches
+* ✔ Makes solar hardware more accessible
+
+---
+
+## **🔓 What Is Open**
 
 We are establishing:
 
-### *12V as the Open Standard for Direct Energy*
+### **Solar Dongle as an Open Educational Standard**
 
 This release includes:
 
-* Solar Driver for 12V systems (*9V–15V DC*)
 * Reference designs
 * Circuit concepts
+* Example layouts
 * Documentation
+* Learning resources
+* Community improvements
 
 ---
 
-## *⚠️ What Is Not Open*
+## **⚠️ What Is Not Open**
 
-This project is intentionally focused and limited.
+This project is intentionally educational and non-commercial.
 
-### ❌ No Energy Storage
+### ❌ No Commercial Manufacturing
 
-* No batteries
-* No supercapacitors
-* No buffering systems
+* No resale products
+* No commercial production
+* No paid repackaging
 
-### ❌ No Voltage Expansion
+### ❌ No Unauthorized Branding
 
-* Not below *9V* (e.g. 5V systems)
-* Not above *15V*
+* Do not claim ownership of shared designs
+* Do not misrepresent project origin
 
-### ❌ No Hybrid Systems
+### ❌ No Closed Derivative Commercial Use
 
-* Solar + storage systems require separate licensing
+* Commercial adaptations require separate written permission
 
 ---
 
-## *🛡 Why These Limits Exist*
+## **🛡 Why These Limits Exist**
 
 OpenEnergy separates two layers:
 
 ### 🔓 Open Layer
 
-*Direct energy flow (real-time systems)*
+**Education, learning, prototyping, and personal experimentation**
 
-### 🔒 Licensed Layer
+### 🔒 Reserved Layer
 
-*Energy storage and advanced system control*
+**Commercial manufacturing, licensing, and business deployment**
 
 This ensures:
 
-* Rapid global adoption
-* Long-term system integrity
+* Global learning access
+* Fair creator protection
+* Long-term project sustainability
 
 ---
 
-## *🧪 Use Cases*
+## **🧪 Use Cases**
 
-* Off-grid lighting
-* Direct solar appliances
-* Multi-source renewable setups
-* DIY energy systems
-* Emergency power
+* Student solar projects
+* DIY hardware builds
+* Educational labs
+* Prototype devices
+* Community maker projects
+* Renewable energy learning kits
 
 ---
 
-## *🧭 Philosophy*
+## **🧭 Philosophy**
 
-This is not about controlling energy.
+This is not about controlling knowledge.
 
 It is about:
 
-### *Allowing energy to flow when it is right*
+### **Allowing people to learn when they are ready**
 
 ---
 
-## *🌍 Vision*
+## **🌍 Vision**
 
-A world in coherent flow — where energy, intelligence, and life move as one.
-
----
-
-## *⚙️ Mission*
-
-To build single-action systems that make energy simple, safe, and efficient.
+A world in coherent flow — where energy, intelligence, and learning move as one.
 
 ---
 
-## *🤝 Build With Us*
+## **⚙️ Mission**
 
-OpenEnergy is not a product.
+To build open educational systems that make energy simple, practical, and accessible.
 
-### *It is a movement.*
+---
+
+## **🤝 Build With Us**
+
+OpenEnergy is not just a repository.
+
+### **It is a learning movement.**
 
 We welcome:
 
@@ -194,50 +199,101 @@ We welcome:
 * Engineers
 * Students
 * Makers
+* Researchers
 
-Share your builds. Improve designs. Spread the idea.
+Share your builds. Improve designs. Expand the ecosystem.
 
 ---
 
-## *📜 License*
+## **📜 License**
 
 This project is released under:
 
-### *Solar Driver Open License v1.1 (12V + No Storage)*
+### **Open Educational Use License**
 
-👉 See: *LICENSE.md*
+Free for individuals to:
+
+* Build
+* Learn
+* Test
+* Modify
+* Improve
+
+Not permitted for resale or commercial exploitation.
+
+👉 See: **LICENSE.md**
 
 ---
 
-## *📡 The Bigger Picture*
+## **📡 The Bigger Picture**
 
 This is the first step:
 
-* *Solar Driver* → Flow Layer (Open)
-* *Storage Systems* → Licensed Layer
-* *Intelligence Systems* → Coming Next
+* **Solar Dongle** → Open Learning Layer
+* **Advanced Systems** → Future Licensed Layer
+* **Intelligent Energy Tools** → Coming Next
 
 ---
 
-## *👤 Who Is Behind This*
+## **👤 Who Is Behind This**
 
-### *OpenEnergy.DIY*
+### **OpenEnergy.DIY**
 
-A trade name of *Kannappan Karuppan Chettiar*
+A trade name of: **Kannappan Karuppan Chettiar**
 
 Inventor of:
 
-* Solar Driver
+* Solar Dongle Concepts
+* Conditional Source Control Systems
+* Flow-based energy architectures
+## **👤 Who Is Behind This**
+
+### **OpenEnergy.DIY**
+
+A trade name of **Kannappan Karuppan Chettiar**
+
+Inventor of:
+
+* Solar Dongle Concepts
 * Conditional Source Control Systems
 * Flow-based energy architectures
 
 ---
 
-## *🧠 Final Thought*
+## **📬 Reach Me**
 
-### **Energy does not need to be controlled.
+<p align="left">
 
-It needs to be allowed.**
+<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kannappanchettiar)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/KannappanChettiar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github">
+</a>
+
+<a href="kc@switchingbattery.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.kannappanchettiar.com/">
+  <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome">
+</a>
+
+</p>
+
+---
+
+## **🧠 Final Thought**
+
+### **Knowledge does not need to be locked.**
+
+### **It needs to be shared responsibly.**
+
+---
+
+<p align="center"><b>⭐ Star the project if you believe learning should be open.</b></p>
+
 
 ---
 
