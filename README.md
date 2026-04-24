@@ -69,7 +69,6 @@ At the center is a:
 * Energy flows when source voltage exceeds node voltage
 * Controlled using comparator-based conditional gating
 
-<h1 align="center"><b>Welcome to OpenEnergy   </b></h1>
 <p align="center">
   <img src="Concept Illustrations/Drawings_solardriver (3)_page-0001.jpg" width="750">
 </p>
