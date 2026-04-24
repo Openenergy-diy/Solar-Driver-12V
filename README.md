@@ -285,7 +285,6 @@ Reach me:
 <a href="https://www.kannappanchettiar.com/">
   <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome">
 </a>
-
 </p>
 ---
 
