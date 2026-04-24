@@ -2,7 +2,7 @@
 
 ### Source-Available — Personal, Educational & Non-Commercial Use Only
 
-Copyright (c) 2024-present **OpenEnergy / OpenEnergy.DIY**
+Copyright (c) 2025-present **OpenEnergy / OpenEnergy.DIY**
 All rights reserved.
 
 Owned by:
