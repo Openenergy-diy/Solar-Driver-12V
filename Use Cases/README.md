@@ -9,13 +9,6 @@ Below are tested and recommended application examples grouped by common operatin
 
 5V systems are ideal for compact electronics, USB-powered devices, embedded hardware, and portable applications.
 
-```text
-/5V
-├── phone-charger/
-├── usb-led-light/
-└── wifi-router-mini/
-```
-
 ---
 
 ## 📱 phone-charger/
