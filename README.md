@@ -289,6 +289,4 @@ Inventor of:
 <p align="center"><b>⭐ Star the project if you believe learning should be open.</b></p>
 
 
----
 
-<p align="center"><b>⭐ Star the project if you believe energy should be open.</b></p>
