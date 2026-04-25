@@ -66,7 +66,21 @@ Operate low-power environmental monitoring stations.
 * Weather station
 * Garden monitoring node
 
-  
+---
+
+---
+
+# 📊 Comparative Study – MPPT vs Solar Drive (5V System)
+
+A detailed performance comparison between conventional **MPPT controllers** and the **Solar Drive platform** is available in the dedicated study file.
+
+### 🔍 Key Highlights
+
+The comparative results demonstrate how Solar Drive can improve direct energy utilization by reducing conversion stages and responding more closely to available source conditions.
+
+### 📄 View Full Comparative Report
+
+👉 [MPPT vs Solar Drive Comparative Study](comparison.md)
 
 ---
 
