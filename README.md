@@ -265,7 +265,7 @@ Inventor of:
 Reach me:
 <p align="center">
 
-<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kannappanchettiar)">
+<a href="https://www.linkedin.com/in/kannappanchettiar">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 &nbsp;
